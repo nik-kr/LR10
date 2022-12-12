@@ -1,0 +1,14 @@
+C:\Users\Nik-kr\source\repos\LR10\bin\Release\Database.mdb
+C:\Users\Nik-kr\source\repos\LR10\bin\Release\LR10.exe.config
+C:\Users\Nik-kr\source\repos\LR10\bin\Release\LR10.exe
+C:\Users\Nik-kr\source\repos\LR10\bin\Release\LR10.pdb
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.Form1.resources
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.Form2.resources
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.Properties.Resources.resources
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.csproj.GenerateResource.cache
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.csproj.CoreCompileInputs.cache
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.exe
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.pdb
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.csproj.AssemblyReference.cache
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.FLogo.resources
+C:\Users\Nik-kr\source\repos\LR10\obj\Release\LR10.AboutForm.resources
